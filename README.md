@@ -10,6 +10,6 @@
 |----|----|
 
 ### Fuzz Faster I Fasted?  </n>
-+ Sent pwn faster eveyone
++ Sent pwn faster than eveyone.
 
 ***Note: `This project used python.`***
