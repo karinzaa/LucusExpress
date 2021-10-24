@@ -13,3 +13,4 @@
 + Sent pwn faster than eveyone.
 
 ***Note: `This project used python.`***
+> For normie edition, please check out here : [pyurlfuzzer](https://github.com/richeyphu/pyurlfuzzer/)
