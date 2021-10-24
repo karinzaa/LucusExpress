@@ -9,7 +9,7 @@
 |CTF Project|[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)|
 |----|----|
 
-### Fuzz Faster? I Fasted  </n>
+### Fuzz Faster? I Fasted (⌐■_■) </n>
 + Sent pwn faster than eveyone.
 
 ***Note: `This project used python.`***
